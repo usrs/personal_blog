@@ -1,10 +1,8 @@
 +++
 date = '2026-11-09T20:08:30-08:00'
 draft = false
-title = 'Ac_story1'
+title = 'Arcane Cleaners - Story 1'
 +++
-# Arcane Cleaners - Story 1
-
 *Working Title: How Can You Dream if You Never Wake Up*
 
 ## Character Details
