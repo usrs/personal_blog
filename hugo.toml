@@ -44,9 +44,9 @@ logo = "👽"
 [menu]
 
   [[menu.main]]
-    identifier = "stories"
-    name = "Stories"
-    url = "/story/"
+    identifier = "about"
+    name = "About"
+    url = "/about/"
     weight = 10
 
 [taxonomies]

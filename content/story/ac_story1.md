@@ -8,35 +8,35 @@ title = 'Arcane Cleaners - Story 1'
 ## Character Details
 list of characteristics on each main character as they are fleshed out.
 
-- Skjöld (The Stag) 
-	- Dwarf
-	- Male
-	- 4'7"
-	- 150 years old (looks about 65 in human years)
-- Kitt (The Dewclaw) Shornleaves
-	- Wood Elf
-	- non-binary? They/Them
-	- 25 (elves live up to the high hundreds of years, so they're very young from an elven viewpoint)
+*Skjöld (The Stag) 
+	*Dwarf
+	*Male
+	*4'7"
+	*150 years old (looks about 65 in human years)
+*Kitt (The Dewclaw) Shornleaves
+	*Wood Elf
+	*non-binary? They/Them
+	*25 (elves live up to the high hundreds of years, so they're very young from an elven viewpoint)
 ## Outline  
-- Part 1: Casing the joint  
-    - drive up to the place, it's Dewclaw's first time in a car and they don't care for cars or mechanical things. Stag then reveals that he made the car himself.  
-    - Pull up and Stag reads the order form, objectives, and bonus objectives  
-    - Dewclaw uses their abilities to locate the thing(s) they need to sort out  
-- Part 2: The job is more complicated than they thought...  
-    - Getting into the manor is difficult, and the two struggle to find a solution to get in. Stag is being cautious, and Dewclaw is choosing to go with their gut rather than Stag's instructions.  
-    - As they look around, they see examples of why they were brought in. The power source means nothing can truly die, and said effect is slowly spreading. Anything that died has now come back, and all living/undead things seem to be stuck in a simultaneous mix of life and death. Plants, animals, people grow, rot, and regrow all at the same time.  
-    - Entering into the manor, they learn that the reanimated beings have formed a small community and largely learned to cope with their state of un-death. Most of them have come to terms with their predicament, and the negative actions that brought the cleaners to the manor are just byproducts of the community trying to continue to exist.  
-    - Dewclaw wants to abandon the job and allow this society to continue. Stag explains that they are not the ones capable of making that decision, and they need to do their job. That's all that matters. Stag continues with the plan  
-- Part 3: Dewclaw learns what it means to be a cleaner  
-    - Dewclaw finds the source of the power, it's the baron of the manor, in the feast hall where his experiment went wrong. He is now an unmovable mass of flesh that needs to be fed regularly to continue channeling the energy that keeps the undead community animated. One of the undead that Dewclaw befriends, turns out was trying to feed them to the baron.  
-    - With their trust shattered, Dewclaw runs to find Stag who has moved a bunch of machinery into the manor to finish the job. Dewclaw explains what happens, and helps Stag move the machinery above where the baron is in the feast hall.   
-    - undead begin to gather around the cleaners and their machines as they realize this is their last moments. Dewclaw's undead friend shows up and does not apologize for it's behavior, but asks that Dewclaw understand it was just doing what it thought was best for itself and it's friends. Just as Dewclaw is doing for themselves and their community.  
-    - Dewclaw turns away, crying, and asks Stag to start the machine.  
-- Part 4: They (mostly) finish the job  
-    - Stag points the tool (magic rail gun? something with intense piercing properties) at the baron. Using the machine, they're able to pinpoint the crystal within the baron and shoot it with the weapon.  
-    - The crystal shatters, causing the baron to explode. As the crystal dust showers everyone in the feast hall, all the undead citizens quickly begin to experience final death. Dewclaw's friend waves goodbye, and slumps over.  
-    - The overgrown plants that kept the manor intact now begin to rot, making the entire building unstable. The cleaners grab what equipment they can and sprint for the exit.  
-    - As they load the van, Dewclaw apologizes for trying to mess things up. Stag finally has a (short lived) tender moment, and tells Dewclaw that everyone working this job has had moments like this.
+*Part 1: Casing the joint  
+    *drive up to the place, it's Dewclaw's first time in a car and they don't care for cars or mechanical things. Stag then reveals that he made the car himself.  
+    *Pull up and Stag reads the order form, objectives, and bonus objectives  
+    *Dewclaw uses their abilities to locate the thing(s) they need to sort out  
+*Part 2: The job is more complicated than they thought...  
+    *Getting into the manor is difficult, and the two struggle to find a solution to get in. Stag is being cautious, and Dewclaw is choosing to go with their gut rather than Stag's instructions.  
+    *As they look around, they see examples of why they were brought in. The power source means nothing can truly die, and said effect is slowly spreading. Anything that died has now come back, and all living/undead things seem to be stuck in a simultaneous mix of life and death. Plants, animals, people grow, rot, and regrow all at the same time.  
+    *Entering into the manor, they learn that the reanimated beings have formed a small community and largely learned to cope with their state of un-death. Most of them have come to terms with their predicament, and the negative actions that brought the cleaners to the manor are just byproducts of the community trying to continue to exist.  
+    *Dewclaw wants to abandon the job and allow this society to continue. Stag explains that they are not the ones capable of making that decision, and they need to do their job. That's all that matters. Stag continues with the plan  
+*Part 3: Dewclaw learns what it means to be a cleaner  
+    *Dewclaw finds the source of the power, it's the baron of the manor, in the feast hall where his experiment went wrong. He is now an unmovable mass of flesh that needs to be fed regularly to continue channeling the energy that keeps the undead community animated. One of the undead that Dewclaw befriends, turns out was trying to feed them to the baron.  
+    *With their trust shattered, Dewclaw runs to find Stag who has moved a bunch of machinery into the manor to finish the job. Dewclaw explains what happens, and helps Stag move the machinery above where the baron is in the feast hall.   
+    *undead begin to gather around the cleaners and their machines as they realize this is their last moments. Dewclaw's undead friend shows up and does not apologize for it's behavior, but asks that Dewclaw understand it was just doing what it thought was best for itself and it's friends. Just as Dewclaw is doing for themselves and their community.  
+    *Dewclaw turns away, crying, and asks Stag to start the machine.  
+*Part 4: They (mostly) finish the job  
+    *Stag points the tool (magic rail gun? something with intense piercing properties) at the baron. Using the machine, they're able to pinpoint the crystal within the baron and shoot it with the weapon.  
+    *The crystal shatters, causing the baron to explode. As the crystal dust showers everyone in the feast hall, all the undead citizens quickly begin to experience final death. Dewclaw's friend waves goodbye, and slumps over.  
+    *The overgrown plants that kept the manor intact now begin to rot, making the entire building unstable. The cleaners grab what equipment they can and sprint for the exit.  
+    *As they load the van, Dewclaw apologizes for trying to mess things up. Stag finally has a (short lived) tender moment, and tells Dewclaw that everyone working this job has had moments like this.
 
 ## Draft
 
@@ -110,16 +110,16 @@ Kitt looked back at Skjöld’s intense stare,
 -----------------------------------------------------------------------
 
 **working notes**
-- Kitt looks around the van and notes the decrepit nature of the van, and all the magic/tech gear in the back area of the van.
-- ~~Stag notes they are approaching the job site, and to read out the work orders once more~~
-	- ~~Kitt almost says Stag's real name, but he stops them, stating he doesn't like that name anymore, and to just call him Stag.~~
-	- Kitt was distracted looking for Stag's name, and forgot to actually read the mission briefing. They don't know what the actual plan is.
-- They reach the job site, Stag begins unloading supplies they'll need. Kitt focuses and describes the flow of magic to Stagg, and notes that there are multiple sensations overlapping.
-	- They re-read the job brief and it says something super unhelpful about what the magic source should feel like "Like mint dinner bells in the summer" and Stag gets annoyed.
-- Kitt goes inside the castle alone and finds the company scout that did their debrief trapped inside. They seem to be somewhat transformed, with strange mutations/deformities. The guide helps Kitt around the castle to find the doors
-	- the guide didn't finish the brief because the necromancer killed/dominated the scout before they could finish. Trapping them in the castle.
-- Skjöld explains to kitt her nickname is dewclaw because she's "a pain in my fucking paw I can't get rid of."
-- Necromancer sounds: “like a church organ made of countless human windpipes” but low and growling
+*Kitt looks around the van and notes the decrepit nature of the van, and all the magic/tech gear in the back area of the van.
+*~~Stag notes they are approaching the job site, and to read out the work orders once more~~
+	*~~Kitt almost says Stag's real name, but he stops them, stating he doesn't like that name anymore, and to just call him Stag.~~
+	*Kitt was distracted looking for Stag's name, and forgot to actually read the mission briefing. They don't know what the actual plan is.
+*They reach the job site, Stag begins unloading supplies they'll need. Kitt focuses and describes the flow of magic to Stagg, and notes that there are multiple sensations overlapping.
+	*They re-read the job brief and it says something super unhelpful about what the magic source should feel like "Like mint dinner bells in the summer" and Stag gets annoyed.
+*Kitt goes inside the castle alone and finds the company scout that did their debrief trapped inside. They seem to be somewhat transformed, with strange mutations/deformities. The guide helps Kitt around the castle to find the doors
+	*the guide didn't finish the brief because the necromancer killed/dominated the scout before they could finish. Trapping them in the castle.
+*Skjöld explains to kitt her nickname is dewclaw because she's "a pain in my fucking paw I can't get rid of."
+*Necromancer sounds: “like a church organ made of countless human windpipes” but low and growling
 
 
 ## Chunks of Story
@@ -135,4 +135,3 @@ Kitt carefully moved down the dilapidated stones steps Underneath the castle, gi
 Kitt still sat there, staring in amazement, “So your plan the entire time was to just shoot the thing with a gun…” She shook their head and began to pick debris off herself.
 
 --------------------------------------------------------------------
-
