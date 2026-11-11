@@ -1,9 +1,9 @@
 baseURL = 'https://blog.tinyiota.com/'
 locale = 'en-us'
-title = "Tiny Iota's Creative Corner"
+title = "Tiny Iota's Personal Blog"
 theme = 'risotto-main'
 author = 'Tiny Iota'
-copyright = "All works presented on this website are Copyright ©, and not to be used without my expressed written consent."
+copyright = "All works presented on this website are Copyrighted© by me, and not to be used without my expressed written consent."
 languageCode = "en"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
@@ -24,7 +24,7 @@ palette = "base16-dark"
 
 # Sidebar: about/bio
 [params.about]
-title = "Stuff I've Made"
+title = "Tiny Iota's Little Blog"
 description = "Welcome to my little creative personal blog."
 # unicode/emoji logo:
 logo = "👽"
@@ -44,9 +44,9 @@ logo = "👽"
 [menu]
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "stories"
+    name = "Stories"
+    url = "/story/"
     weight = 10
 
 [taxonomies]
